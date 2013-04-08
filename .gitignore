@@ -1,0 +1,2 @@
+$ cat .gitignore
+*.ds_store
