@@ -1,0 +1,40 @@
+.hidden
+{
+	display: none;
+}
+
+div.container
+{
+	margin-top: 30px;
+}
+
+div.first_story_content img
+{
+	height: 110px;
+	width: 90px;
+	padding: 5px;
+	float: left;
+}
+
+div.secondary_stories img
+{
+	height: 80px;
+	width: 60px;
+	padding: 5px;
+	float: left;
+}
+
+ul.feed_select li
+{
+	list-style: none;
+}
+
+ul.remove_subs li
+{
+	list-style: none;
+}
+
+a.close_pane
+{
+	float: right;
+}
